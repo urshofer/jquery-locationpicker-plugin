@@ -1,0 +1,13 @@
+{
+    "name": "logicify/jquery-locationpicker-plugin",
+    "description": "Jquery Location Picker",
+    "type": "Library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "corvis",
+            "email": "xxx@xxx.com"
+        }
+    ]
+}
